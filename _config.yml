@@ -1,36 +1,32 @@
-# Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: 
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Hanif Ali
+title: Full-stack Developer
+email: alihanif016@gmail.com
+phone: 
+website: hanifali.me
 
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+# twitter_username: jekyllrb
+github_username:  hanif-ali
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: alyhaneef
+linkedin_username: haneefaly
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,16 +41,13 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hello There! My name is Hanif. I am a Programmer and Software Engineering student driven by passion for Programming, Mathematics and Problem Solving. I started coding when I was 14. Python and JavaScript are my languages of choice. I like to develop Web Applications, although I am exploring various other domains as well. I am also a newbie contributor to FOSS on Github.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  I am interested in Machine Learning and Cloud Computing and want to explore them further in the future. I use Linux as my full-time operating system and prefer Vim over Emacs. In my free time, I like to listen to Music, Write/Blog or lift some weights.
+
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
@@ -63,11 +56,13 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  Highly Skilled: <mark>Python</mark>  <mark>JavaScript (ES6)</mark>  <mark>Web Development</mark>  <mark>Django</mark>  <mark>Version Control (Git)</mark>  <mark>HTML/CSS</mark>  <mark>Bootstrap</mark>    <mark>Problem Solving</mark>   <mark>Interpersonal Skills </mark>
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Intermediate Knowledge: <mark>Unit Testing</mark> <mark>RESTful APIs</mark> <mark>SQL Databases</mark> <mark>Continuous Integraion</mark> <mark>Linux</mark> <mark>Shell Scripting</mark>
+
+  Novice: <mark>Java</mark> <mark>Front-End Testing</mark> 
 
 # Footer
 footer_show_references: true
