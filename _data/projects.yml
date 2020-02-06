@@ -1,9 +1,34 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Lightbulbs
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/hanif-ali/lightbulbs
   quote: >
-    Short overview of the project (optional)
+    An open-source web-based Idea Sharing platform
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Lightbulbs is a platform for sharing ideas and finding the people to collaborate with. Individual users can create a profile, publish their ideas (termed 'lightbulbs') and get proposals from other users. There is a built-in messaging and ranking system which is based on the upvotes, downvotes and timestamps of the posts.
+    
+  Knowledge/Skills Gained: <mark>Django</mark> <mark>Team Work</mark> <mark>Unit Testing</mark>
+
+- layout: top-middle
+  name: Intranet Polling System
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/hanif-ali/IPS
+  quote: >
+    A centralized Polling system for conducting supervised Polls
+  description: | # this will include new lines to allow paragraphs
+    This is a project that I developed during my high-school, primarily to digitize the Elections for our school's House System, which were done manually by default. It is an application for conducting supervised polls in an Intranet through a common server.
+
+  Knowledge/Skills Gained: <mark>Django</mark> <mark>Authentication/Authorization</mark> <mark>OpenPyXL</mark> <mark>Bootstrap</mark> <mark>Version Control</mark> 
+
+
+- layout: top-middle
+  name: Eureka
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/hanif-ali/IPS
+  quote: >
+    Real-time Object Detection through Region-based Convolutional Neural Networks
+  description: | # this will include new lines to allow paragraphs
+    This was a high-school Science Fair Project based on YOLOv2 framework. The application could be accessed on the School's intranet through a Web Browser. The aim of the project was to illustrate the usefulness of Machine Learning.
+
+  Knowledge/Skills Learned: <mark>Logistic Regression</mark> <mark>Convolutional Neural Networks</mark> <mark>Working with Virtual Environments</mark> <mark>Multithreading</mark> 

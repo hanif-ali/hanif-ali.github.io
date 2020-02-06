@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: National University of Science and Technology
+  dates: 2019 - Expected 2023
+  qualification: Bachelors of Engineering in Software Engineering
   quote: >
-    Short institution or course description (optional)
+    Software engineering is the study of and practice of engineering to build, design, develop, maintain, and retire software.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Currently, I am in the second semester of my degree with a CGPA of **3.84**. I have taken courses of Fundamentals of Programming and Object Oriented Prorgamming. I have also taken Discrete Mathematics, Digital Logic Design, Linear Algrebra, Ordinary Differential Equations and Calculus.

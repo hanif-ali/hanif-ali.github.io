@@ -62,7 +62,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   Intermediate Knowledge: <mark>Unit Testing</mark> <mark>RESTful APIs</mark> <mark>SQL Databases</mark> <mark>Continuous Integraion</mark> <mark>Linux</mark> <mark>Shell Scripting</mark>
 
-  Novice: <mark>Java</mark> <mark>Front-End Testing</mark> 
+  Novice: <mark>Java</mark> <mark>Front-End Testing</mark> <mark>Selenium</mark>
 
 # Footer
 footer_show_references: true
