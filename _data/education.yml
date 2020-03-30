@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
   name: National University of Science and Technology
-  dates: 2019 - Expected 2023
+  dates: 
   qualification: Bachelors of Engineering in Software Engineering
   quote: >
-    Software engineering is the study of and practice of engineering to build, design, develop, maintain, and retire software.
+    Software engineering is the study of practice of engineering to build, design, develop, maintain, and retire software.
   description: | # this will include new lines to allow paragraphs
-    Currently, I am in the second semester of my degree with a CGPA of **3.84**. I have taken courses of Fundamentals of Programming and Object Oriented Prorgamming. I have also taken Discrete Mathematics, Digital Logic Design, Linear Algrebra, Ordinary Differential Equations and Calculus.
+    I have maintanied a CGPA of **3.84/4.0**. In addition to Software Engineering and CS courses, I have taken various courses in Mathematics, Physics and other domains as well.

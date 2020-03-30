@@ -17,7 +17,7 @@
   quote: >
     A centralized Polling system for conducting supervised Polls
   description: | # this will include new lines to allow paragraphs
-    This is a project that I developed during my high-school, primarily to digitize the Elections for our school's House System, which were done manually by default. It is an application for conducting supervised polls in an Intranet through a common server.
+    IPS helps conduct supervised Polls through central Server in various kinds of organizations. The primary stack of this project included Django and Javascript.
 
   Knowledge/Skills Gained: <mark>Django</mark> <mark>Authentication/Authorization</mark> <mark>OpenPyXL</mark> <mark>Bootstrap</mark> <mark>Version Control</mark> 
 
