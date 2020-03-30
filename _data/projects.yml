@@ -2,7 +2,7 @@
 - layout: top-middle
   name: Lightbulbs
   # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: https://github.com/hanif-ali/lightbulbs
+  github: hanif-ali/lightbulbs
   quote: >
     An open-source web-based Idea Sharing platform
   description: | # this will include new lines to allow paragraphs
@@ -13,7 +13,7 @@
 - layout: top-middle
   name: Intranet Polling System
   # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: https://github.com/hanif-ali/IPS
+  github: hanif-ali/IPS
   quote: >
     A centralized Polling system for conducting supervised Polls
   description: | # this will include new lines to allow paragraphs
@@ -25,7 +25,7 @@
 - layout: top-middle
   name: Eureka
   # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: https://github.com/hanif-ali/IPS
+  github: hanif-ali/IPS
   quote: >
     Real-time Object Detection through Region-based Convolutional Neural Networks
   description: | # this will include new lines to allow paragraphs
