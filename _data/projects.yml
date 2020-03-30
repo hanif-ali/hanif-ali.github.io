@@ -29,6 +29,6 @@
   quote: >
     Real-time Object Detection through Region-based Convolutional Neural Networks
   description: | # this will include new lines to allow paragraphs
-    This was a high-school Science Fair Project based on YOLOv2 framework. The application could be accessed on the School's intranet through a Web Browser. The aim of the project was to illustrate the usefulness of Machine Learning.
+    This was a Science Fair Project based on YOLOv2 framework. The application could be accessed on the Intranet through a Web Browser. 
 
   Knowledge/Skills Learned: <mark>Logistic Regression</mark> <mark>Convolutional Neural Networks</mark> <mark>Working with Virtual Environments</mark> <mark>Multithreading</mark> 

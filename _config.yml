@@ -39,7 +39,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: profile.jpg
+about_profile_image: profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello There! My name is Hanif. I am a Web Developer driven by passion for Programming, Mathematics and Problem Solving. I started coding when I was 14. Python and JavaScript are my languages of choice. I like to develop Web Applications, although I am exploring various other domains as well. I am also a newbie contributor to FOSS on Github.
 
