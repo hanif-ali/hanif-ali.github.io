@@ -41,9 +41,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hello There! My name is Hanif. I am a Web Developer driven by passion for Programming, Mathematics and Problem Solving. I started coding when I was 14. Python and JavaScript are my languages of choice. I like to develop Web Applications, although I am exploring various other domains as well. I am also a contributor to FOSS on Github.
+  Hello There! My name is Hanif. I am a Web Developer driven by passion for Programming, Mathematics and Problem Solving. I started coding as early as age 14. Python and JavaScript are my languages of choice. I am engaged in Web Development for most of my time, although I work in other domains as well. I am also a contributor to FOSS on Github.
 
-  Apart from Web Development, I am interested in Machine Learning and Cloud Computing and want to explore them further. I use Ubuntu as my full-time operating system and prefer VSCode or Vim as a text-editor. In my free time, I like to listen to Music, Write/Blog or lift some weights.
+  Apart from Web Development, I have an interest in Machine Learning and Cloud Computing. I use Ubuntu as my primary operating system and prefer VSCode or Vim as a text-editor. In my free time, I like to listen to Music, Write/Blog or lift some weights.
 
   If you are interested in hiring me for work, you can connect to me on Upwork <a href="https://www.upwork.com/o/profiles/users/~01e4e24f6f1a812341/">here</a>.
 
