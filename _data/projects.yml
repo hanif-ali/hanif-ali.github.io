@@ -1,5 +1,16 @@
 # Project template
 - layout: top-middle
+  name: CodeHack
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: hanif-ali/CodeBench-Backend
+  quote: >
+    Automated Grader for Programming Assignments
+  description: | # this will include new lines to allow paragraphs
+    CodeBench is an Automated Grader for Programming Assignments that accepts and grades programming assignments based on pre-specified test cases and certain criteria like Performance (time/space) and Linting. The service is built upon Flask and also has a Java Application built for Desktop.
+
+  Knowledge/Skills Gained/Improved: <mark>Multithreading</mark><mark>Marshmallow</mark><mark>RESTful APIs</mark><mark>Static Analysis</mark>
+
+- layout: top-middle
   name: Lightbulbs
   # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: hanif-ali/lightbulbs
@@ -10,25 +21,12 @@
     
   Knowledge/Skills Gained: <mark>Django</mark> <mark>Team Work</mark> <mark>Unit Testing</mark>
 
-- layout: top-middle
-  name: Intranet Polling System
-  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: hanif-ali/IPS
-  quote: >
-    A centralized Polling system for conducting supervised Polls
-  description: | # this will include new lines to allow paragraphs
-    IPS helps conduct supervised Polls through central Server in various kinds of organizations. The primary stack of this project included Django and Javascript.
-
-  Knowledge/Skills Gained: <mark>Django</mark> <mark>Authentication/Authorization</mark> <mark>OpenPyXL</mark> <mark>Bootstrap</mark> <mark>Version Control</mark> 
-
 
 - layout: top-middle
-  name: Eureka
+  name: TIL
   # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: hanif-ali/IPS
+  github: hanif-ali/til
   quote: >
-    Real-time Object Detection through Region-based Convolutional Neural Networks
+    A log of small things that I learn on a daily basis across a vast array of technologies
   description: | # this will include new lines to allow paragraphs
-    This was a Science Fair Project based on YOLOv2 framework. The application could be accessed on the Intranet through a Web Browser. 
-
-  Knowledge/Skills Learned: <mark>Logistic Regression</mark> <mark>Convolutional Neural Networks</mark> <mark>Working with Virtual Environments</mark> <mark>Multithreading</mark> 
+    TIL (Today I Learned) is a log small new things that I learn on a daily basis. These are things that cannot be learnt from courses or tutorials but which can improve your day to day tasks.
