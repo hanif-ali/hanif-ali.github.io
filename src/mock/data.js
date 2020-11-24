@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Hanif Ali | Freelance Software Developer',
+  lang: 'en',
+  description: 'I am Hanif Ali. I am a Software Engineering sophomore and a Freelance Backend Developer.', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -12,16 +12,16 @@ export const heroData = {
   title: '',
   name: 'Hanif Ali',
   subtitle: "I'm a Freelance Software Developer",
-  cta: '',
+  cta: 'Know More',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: 'I am a Software Engineering student at the National University of Sciences and Technology. Currently, I am also working as a Freelance Backend Developer at Pikkal & Co.',
-  paragraphTwo: 'I love Programming and learning new technologies. Therefore, I am constantly working to expand the domain of my skills.',
-  paragraphThree: '',
-  resume: '#', // if no resume, the button will not show up
+  paragraphOne: 'Hi 👋,',
+  paragraphTwo: 'I am Hanif Ali. I study Software Engineering student at the National University of Sciences and Technology, Islamabad. Currently, I am also working as a Freelance Backend Developer at Pikkal & Co.',
+  paragraphThree: 'I love Programming and learning new technologies. Therefore, I am constantly working to expand the domain of my skills.',
+  resume: 'https://drive.google.com/file/d/17_SpTM1i5pJFLXlEnutTg1ORzLS0ZGJh/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
