@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: 'hanif/',
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
