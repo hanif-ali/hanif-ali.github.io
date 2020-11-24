@@ -4,6 +4,7 @@
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
   "license": "MIT",
+  "homepage": "https://hanif-ali.github.io",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -13,7 +14,6 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
-
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
