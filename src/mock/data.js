@@ -22,6 +22,7 @@ export const aboutData = {
   paragraphTwo: 'I am Hanif Ali. I study Software Engineering student at the National University of Sciences and Technology, Islamabad. Currently, I am also working as a Freelance Backend Developer at Pikkal & Co.',
   paragraphThree: 'I love Programming and learning new technologies. Therefore, I am constantly working to expand the domain of my skills.',
   resume: 'https://drive.google.com/file/d/17_SpTM1i5pJFLXlEnutTg1ORzLS0ZGJh/view?usp=sharing', // if no resume, the button will not show up
+  upwork: 'https://www.upwork.com/freelancers/~01e4e24f6f1a812341',
 };
 
 // PROJECTS DATA

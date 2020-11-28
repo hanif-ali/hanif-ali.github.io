@@ -7,7 +7,7 @@ import PortfolioContext from '../../context/context';
 
 const About = () => {
   const { about } = useContext(PortfolioContext);
-  const { img, paragraphOne, paragraphTwo, paragraphThree, resume } = about;
+  const { img, paragraphOne, paragraphTwo, paragraphThree, resume, upwork } = about;
 
   const [isDesktop, setIsDesktop] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
@@ -57,6 +57,16 @@ const About = () => {
                     >
                       Resume
                     </a>
+		    {upwork && (
+		        <a
+		          target="_blank"
+		          rel="noopener noreferrer"
+		          className="ml-3 cta-btn cta-btn--resume"
+		          href={upwork}
+		        >
+		          Upwork
+		        </a>
+		     )}
                   </span>
                 )}
               </div>
